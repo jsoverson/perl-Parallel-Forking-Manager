@@ -1,0 +1,4 @@
+do{ my $x = {
+       'Parallel-Forking-Manager-*' => 1
+     };
+$x; }
